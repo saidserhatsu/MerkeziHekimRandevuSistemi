@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\Users\serhat\Desktop\SerhatProje\Project1.dproj=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,=C:\Users\serhat\Desktop\SerhatProje\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,=C:\Users\serhat\Desktop\SerhatProje\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\serhat\Desktop\SerhatProje\Unit1.pas=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\serhat\Desktop\SerhatProje\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\serhat\Desktop\SerhatProje\Unit1.dfm=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,=C:\Users\serhat\Desktop\SerhatProje\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\serhat\Desktop\SerhatProje\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=C:\Users\serhat\Desktop\SerhatProje\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
